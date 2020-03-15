@@ -1,1 +1,1 @@
-# gotdomzad.github.com
+# gotdomzad.github.io
